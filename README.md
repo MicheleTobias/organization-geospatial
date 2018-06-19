@@ -4,6 +4,5 @@
 
 
 
-# Geospatial Data Organization
-
-This lesson is built and deployed automatically on Travis CI. All changes should only be made in the `master` branch.
+# Geospatial Data Organization at DIBSI 2018
+We're testing out the new Carpentries Geospatial Curriculum!
